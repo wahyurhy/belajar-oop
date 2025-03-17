@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package com.wahyurhy.belajarjavamaven;
+package com.wahyurhy.belajarjavamaven.Polymorphism;
 
 /**
  *
@@ -21,6 +21,14 @@ public class BelajarPolymorphism {
         
         kucing.bersuara();
         anjing.bersuara();
+        
+        Kendaraan mobil = new Mobil();
+        mobil.berjalan();
+        mobil.diperbaiki();
+        
+        Motor motor = new Motor();
+        motor.berjalan();
+        motor.diperbaiki();
     }
     
 }

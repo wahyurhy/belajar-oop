@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
-package com.wahyurhy.belajarjavamaven;
+package com.wahyurhy.belajarjavamaven.Encaptulation;
 
 import java.util.Scanner;
 
